@@ -2,7 +2,7 @@
 
 #Project-Horizon
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegoalfer_s/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alfer-700ba1382/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegoalfer_s/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alfer-700ba3182?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-alfer&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true)
 
